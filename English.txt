@@ -1,0 +1,10 @@
+hello
+bye
+please
+thank you
+sorry
+bless you
+yes
+dog
+cat
+fish
